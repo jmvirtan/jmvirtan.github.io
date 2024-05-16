@@ -7,7 +7,7 @@ layout: default
 #### Technical Skills: C#, Java, Javascript, React, SQL, Docker
 
 ### Education
-- BSc in MIT | University of Jyväskylä (_Jan 2021 - Present_)
+- BSc in MIT @ University of Jyväskylä (_Jan 2021 - Present_)
 
 ### Projects
 - TIEA207 Group Course Assignment using React with IGDB API
