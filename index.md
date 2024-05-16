@@ -11,7 +11,7 @@ layout: default
 
 ### Projects
 - TIEA207 Group Course Assignment using React with IGDB API
-- Course Assignments for Programming I and Programming II can be found at [GitLab](https://www.jyu.fi/en)
+- Course Assignments for Programming I and Programming II @ [GitLab](https://www.jyu.fi/en)
 
 ### Experience
 - IT Support @ University of Jyväskylä (_May 2024 - Jun 2024_)
