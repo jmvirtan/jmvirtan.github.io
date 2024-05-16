@@ -2,6 +2,7 @@ title: Jami Virtanen
 email: jamimvirtanen@gmail.com
 description: Open to Work
 show_downloads: false
+google_analytics: false
 color-scheme: auto
 plugins:
   - jekyll-sitemap
