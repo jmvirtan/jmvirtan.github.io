@@ -10,7 +10,7 @@ layout: default
 - BSc in MIT @ University of Jyväskylä (_Jan 2021 - Present_)
 
 ### Projects
-- TIEA207 Group Course Assignment using React with IGDB API
+- TIEA207 Group Course Assignment using React with IGDB API @ [GitHub]([https://www.jyu.fi/en](https://github.com/jmvirtan/TIEA207))
 - Course Assignments for Programming I and II @ [GitLab](https://www.jyu.fi/en)
 
 ### Experience
