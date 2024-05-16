@@ -12,15 +12,16 @@ plugins:
 
 # You can find fonts from https://iconify.design or https://fontawesome.com. Below is just an example illustrating how to use custom icons
 sidebar:
+  - name: Jyväskylä, Finland
   - name: LinkedIn
-    icon: <i class="fa-brands fa-linkedin"></i>
-    link: https://www.linkedin.com/in/jami-virtanen/
-  - name: GitLab
-    icon: <i class="fa-brands fa-gitlab"></i>
-    link: https://gitlab.com/jmvirtan
+    icon: <i class="fa fa-map-marker"></i>
+    link: false
   - name: GitHub
     icon: <i class="fa-brands fa-github"></i>
     link: https://github.com/jmvirtan
+  - name: GitLab
+    icon: <i class="fa-brands fa-gitlab"></i>
+    link: https://gitlab.com/jmvirtan
 
 
 # https://github.com/github/pages-gem/issues/399#issuecomment-301827749
