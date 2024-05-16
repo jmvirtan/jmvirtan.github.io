@@ -5,6 +5,7 @@ layout: default
 ### Computer Science Student at [JYU](https://www.jyu.fi/en)
 
 #### Technical Skills: C#, Java, Javascript, React, SQL, Docker
+##### Learning: Rust and Kubernetes
 
 ### Education
 - BSc in MIT @ University of Jyväskylä (_Jan 2021 - Present_)
