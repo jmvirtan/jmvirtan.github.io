@@ -19,7 +19,7 @@ layout: default
 - Study Group Lead @ University of Jyväskylä (_Sep 2022 - Dec 2022_)
 - Seasonal Worker @ Posti Group (_Dec 2020_)
 - Seasonal Worker @ Posti Group (_Dec 2018_)
-- Pirkanmaa Sairaanhoitopiiri (PSHP) | Virtual Hospital 2.0 project (_Oct 2017 - Mar 2018_)
+- Pirkanmaa Sairaanhoitopiiri (PSHP) @ Virtual Hospital 2.0 project (_Oct 2017 - Mar 2018_)
 
 ### Volunteering
 - Chairman @ Olutseura DOS ry (_Jan 2024 - Present_)
