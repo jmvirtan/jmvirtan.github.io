@@ -3,8 +3,6 @@ layout: default
 ---
 
 # Computer Science Student at [JYU](https://www.jyu.fi/en)
-##### Open For Work
-[Email](jamimvirtanen@gmail.com)
 
 #### Technical Skills: C#, Java, Javascript, React, SQL, Docker
 
