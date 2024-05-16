@@ -1,8 +1,8 @@
 ---
 layout: default
 ---
-
-# Computer Science Student at [JYU](https://www.jyu.fi/en)
+# About Me
+### Computer Science Student at [JYU](https://www.jyu.fi/en)
 
 #### Technical Skills: C#, Java, Javascript, React, SQL, Docker
 
