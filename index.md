@@ -4,7 +4,7 @@ layout: default
 # About Me
 ### IT Student at [JYU](https://www.jyu.fi/en)
 
-#### Technical Skills: C#, Java, Javascript, React, SQL, Docker
+#### Technical Skills: HTML & CSS, Javascript, React, C#, Java, SQL, Docker
 ##### Learning: Rust and Kubernetes
 
 ### Education
