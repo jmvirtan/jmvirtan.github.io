@@ -5,7 +5,7 @@ layout: default
 ### IT Student at [JYU](https://www.jyu.fi/en)
 
 #### Technical Skills: HTML & CSS, Javascript, React, C#, Java, SQL, Docker
-##### Learning: Rust and Kubernetes
+##### Currently learning: Rust and Kubernetes
 
 ### Education
 - BSc in MIT @ University of Jyväskylä (_Jan 2021 - Present_)
@@ -14,7 +14,7 @@ layout: default
 - TIEA207 Group Course Assignment using React with IGDB API @ [GitHub](https://github.com/jmvirtan/TIEA207)
 - Course Assignments for Programming I and II @ [GitLab](https://gitlab.com/jmvirtan)
 
-### Experience
+### Work Experience
 - IT Support @ University of Jyväskylä (_May 2024 - Jun 2024_)
 - IT Support @ University of Jyväskylä (_May 2023 - Jun 2023_)
 - Study Group Lead @ University of Jyväskylä (_Sep 2022 - Dec 2022_)
@@ -23,6 +23,7 @@ layout: default
 - Project Secretary @ (PSHP/TAYS) Virtual Hospital 2.0 Project (_Oct 2017 - Mar 2018_)
 
 ### Volunteering
+- Tutor @ Faculty of Information Technology, JYU (_Autumn 2024_)
 - Chairman @ Olutseura DOS ry (_Jan 2024 - Present_)
 - Vice Chairman @ Olutseura DOS ry (_Jan 2023 - Dec 2023_)
 - Head of Media @ Linkki Jyväskylä ry (Student Association) (_Jan 2023 - Dec 2023_)
