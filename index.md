@@ -8,7 +8,7 @@ layout: default
 ##### Currently learning: Rust and Kubernetes
 
 ### Education
-- BSc in MIT @ University of Jyväskylä (_Jan 2021 - Present_)
+- BSc in Computer Science @ University of Jyväskylä (_Jan 2021 - Present_)
 
 ### Projects
 - TIEA207 Group Course Assignment using React with IGDB API @ [GitHub](https://github.com/jmvirtan/TIEA207)
